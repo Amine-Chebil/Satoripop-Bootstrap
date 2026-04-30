@@ -1,6 +1,7 @@
 # Satoripop Bootstrap
 
 A responsive website for Satoripop using Bootstrap/CSS.
+
 Check it out from this link: https://satoripop-bootstrap.vercel.app
 
 ## Project Structure
