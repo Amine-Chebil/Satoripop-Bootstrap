@@ -18,5 +18,6 @@ A responsive website for Satoripop using Bootstrap/CSS.
 ## Getting Started
 
 1. Clone the repo: `git clone https://github.com/Amine-Chebil/Satoripop-Bootstrap.git`
+2. Open fonts folder and install them
 2. Open `index.html` in a browser
 Or use Live Server in VS Code (right-click → "Open with Live Server").
